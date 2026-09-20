@@ -31,12 +31,12 @@ Lumière is a luxury jewelry landing page designed to showcase elegant jewelry c
 ## 🎯 Features
 
 * Clean and elegant design
-* Responsive layout
 * Pricing cards
 * Team section
 * Featured works section
 * Hover effects
 * Organized and simple UI
+
 
 
 
