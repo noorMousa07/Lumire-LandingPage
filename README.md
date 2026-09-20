@@ -26,7 +26,7 @@ Lumière is a luxury jewelry landing page designed to showcase elegant jewelry c
 ## 🛠️ Technologies Used
 
 * HTML4
-* CSS3
+* CSS
 
 ## 🎯 Features
 
